@@ -1,0 +1,19 @@
+header {
+    text-align: center;
+    background-image: url(https://avatars.mds.yandex.net/i?id=257f243336e8ff66b43085b645498024_l-4905400-images-thumbs&n=13);
+    color:#d697db;
+}
+
+p {
+    font-size: 20px;
+}
+
+main {
+    background-image: url(https://cdnn21.img.ria.ru/images/156044/10/1560441001_0:146:2000:1271_1920x1080_80_0_0_78ad3217b092a889967032e00858b509.jpg);
+    color:white;
+}
+
+footer img {
+    width: 30px;
+    height: 30px;
+}
